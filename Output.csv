@@ -1,0 +1,4 @@
+#TYPE DomeinObj
+"MatchingIdentities","LinkSSLLabs","Classificering","TLS10","TLS11","RC4","IP"
+"rocmn.nl","https://www.ssllabs.com/ssltest/analyze.html?d=rocmn.nl","B","True","True","False","83.217.76.159"
+"start.rocmn.nl","https://www.ssllabs.com/ssltest/analyze.html?d=start.rocmn.nl","B","True","True","True","194.171.158.106"
